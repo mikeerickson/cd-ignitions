@@ -1,0 +1,25 @@
+{
+  "name": "cd-ignitions",
+  "version": "0.0.0-dev",
+  "description": "Suite of code starter files or scripts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "angular",
+    "babel",
+    "css",
+    "eslint",
+    "gulp",
+    "js",
+    "karma",
+    "less",
+    "mocha",
+    "react",
+    "sass",
+    "webpack"
+  ],
+  "author": "Mike Erickson <codedungeon@gmail.com> (https://github.com/mikeerickson)",
+  "license": "MIT"
+}
